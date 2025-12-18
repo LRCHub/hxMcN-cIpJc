@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Shine On Me",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2025-12-18T01:31:14.660175Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Troy Cartwright",
+      "has_synced": true,
+      "path": "select/01_Shine_On_Me_Troy_Cartwright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Robin S",
+      "has_synced": false,
+      "path": "select/02_Shine_On_Me_Robin_S.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let the Light (Shine on Me)",
+      "artist": "Triumph",
+      "has_synced": true,
+      "path": "select/03_Let_the_Light_(Shine_on_Me)_Triumph.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shine on Me",
+      "artist": "Dan Auerbach",
+      "has_synced": true,
+      "path": "select/04_Shine_on_Me_Dan_Auerbach.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Your Light Shine on Me",
+      "artist": "Blind Willie Johnson",
+      "has_synced": true,
+      "path": "select/05_Let_Your_Light_Shine_on_Me_Blind_Willie_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shine On Me - Instrumental",
+      "artist": "12 Stones",
+      "has_synced": false,
+      "path": "select/06_Shine_On_Me_-_Instrumental_12_Stones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Kingston Wall",
+      "has_synced": false,
+      "path": "select/07_Shine_On_Me_Kingston_Wall.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let It Shine on Me",
+      "artist": "Lead Belly",
+      "has_synced": false,
+      "path": "select/08_Let_It_Shine_on_Me_Lead_Belly.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Andy Griggs",
+      "has_synced": false,
+      "path": "select/09_Shine_On_Me_Andy_Griggs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Casey Donahew Band",
+      "has_synced": true,
+      "path": "select/10_Shine_On_Me_Casey_Donahew_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "12 Stones",
+      "has_synced": true,
+      "path": "select/11_Shine_On_Me_12_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shine on Me",
+      "artist": "Dan Auerbach",
+      "has_synced": false,
+      "path": "select/12_Shine_on_Me_Dan_Auerbach.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Sun Won’t Shine On Me",
+      "artist": "Teenage Fanclub",
+      "has_synced": true,
+      "path": "select/13_The_Sun_Won’t_Shine_On_Me_Teenage_Fanclub.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "The Hollies",
+      "has_synced": true,
+      "path": "select/14_Shine_On_Me_The_Hollies.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "The Bones of J.R. Jones",
+      "has_synced": true,
+      "path": "select/15_Shine_On_Me_The_Bones_of_J.R._Jones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Kym Marsh",
+      "has_synced": true,
+      "path": "select/16_Shine_On_Me_Kym_Marsh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shine on me",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Shine_on_me_ENHYPEN.txt"
+    }
+  ]
+}
